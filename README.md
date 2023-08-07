@@ -1,6 +1,6 @@
-## Hi there welcome to my Github profile!👋
+## Hi there and welcome to my Github profile!👋
 
-![Image](https://scontent.fmnl9-4.fna.fbcdn.net/v/t39.30808-6/358535283_6677171098980945_4224910274528634259_n.jpg?_nc_cat=106&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEAVnJaEUdimg1lOCka3z_yJcz4kQW26n0lzPiRBbbqfTogSyE6MQR5r_GhC7PF0flyXcuDZe66f46eaZBFrlyy&_nc_ohc=W-0qXOkpw6EAX8CRJxR&_nc_zt=23&_nc_ht=scontent.fmnl9-4.fna&oh=00_AfAO0JpmEU_4bK_gbICcQqdtLu3Ng-8gH9PHZpGPYtftWw&oe=64D55149)
+<img src="https://scontent.fmnl9-4.fna.fbcdn.net/v/t39.30808-6/358535283_6677171098980945_4224910274528634259_n.jpg?_nc_cat=106&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEAVnJaEUdimg1lOCka3z_yJcz4kQW26n0lzPiRBbbqfTogSyE6MQR5r_GhC7PF0flyXcuDZe66f46eaZBFrlyy&_nc_ohc=W-0qXOkpw6EAX8CRJxR&_nc_zt=23&_nc_ht=scontent.fmnl9-4.fna&oh=00_AfAO0JpmEU_4bK_gbICcQqdtLu3Ng-8gH9PHZpGPYtftWw&oe=64D55149" width="300" height="300">
 
 # I am __Carl Dennis Pineda__ *(kiritsugucarl)*, a front-end/fullstack web developer. 
 

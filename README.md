@@ -12,6 +12,23 @@ Some facts :
 -  📫 How to reach me: You can e-mail me via cdbpineda02@gmail.com and rest assured that I will reach back the moment I read your message.
 -  ⚡ Fun fact: I started coding during my 10th grade and soon developed my skills, and boosted my studying during my college where I am enrolled as an IT student.
 
+My Technologies are : 
+- :electron: ReactJs
+- :atom: HTML
+- 🖌️ CSS
+- 🎨 SCSS
+- ⚛️ ES6+ JavaScript
+- 🐍 Python
+- ☕ Java
+- 💻 PHP
+- 📄 MySQL
+- 🔥 Firebase
+- #️⃣ CSharp
+- 🎮 Unity
+- 🏗️ Bootstrap
+- ⚡ Vite
+- 🧠 Git
+
 <!--
 **kiritsugucarl/kiritsugucarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

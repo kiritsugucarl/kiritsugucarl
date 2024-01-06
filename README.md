@@ -4,7 +4,7 @@
 
 Some facts : 
 - 🌱 I’m currently learning MERN stack, to create a full-stack React Application specifically for E-commerce.
-- 🔭 I’m currently working on my internship project for the government which is a Social Welfare System, a full-stack website that is mainly built in ReactJS and I am the leader of the team, as well as the Front-end Developer.
+- 🔭 I’m currently working on my capstone project which is [musictaste.me](https://musictaste-me.vercel.app/)
 -  📫 How to reach me: You can e-mail me via cdbpineda02@gmail.com and rest assured that I will reach back the moment I read your message.
 -  ⚡ Fun fact: I started coding during my 10th grade and soon developed my skills, and boosted my studying during my college where I am enrolled as an IT student.
 

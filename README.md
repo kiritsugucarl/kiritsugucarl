@@ -1,16 +1,18 @@
 ## Hi there and welcome to my Github profile!👋
 
-# I am __Carl Dennis Pineda__ *(kiritsugucarl)*, a front-end/fullstack web developer. 
+# I am __Carl Dennis Pineda__ *(kiritsugucarl)*, currently a Software Engineer. 
 
 Some facts : 
-- 🌱 I’m currently learning UNIX to maximize my capabilities as a developer
-- 🔭 I’m currently working on side projects just to refresh my coding skills.
--  📫 How to reach me: You can e-mail me via cdbpineda02@gmail.com and rest assured that I will reach back the moment I read your message.
--  ⚡ Graduating in August 3, 2024 and is ready to work anytime soon.
+- 🌱 Focusing in automation as part of the adhoc tasks in my current job
+- 🔭 Working on side projects that have potency to create business.
+-  📫 Email me at cdbpineda02@gmail.com for inquiries about your website/application.
+-  ⚡ Software Engineer in Collabera Digital
 
 My Technologies are : 
 - :electron: ReactJs
 - :atom: HTML
+- 📲 Linux/UNIX
+- 🐚 Perl
 - 🖌️ CSS
 - 🎨 SCSS
 - ⚛️ ES6+ JavaScript

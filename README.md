@@ -1,43 +1,22 @@
-## Hi there and welcome to my Github profile!👋
+## Carl Dennis Pineda - Software Engineer👋
 
-# I am __Carl Dennis Pineda__ *(kiritsugucarl)*, currently a Software Engineer. 
+Current work responsibilities : 
+-  Automation scripts that is put in the crontab for automated reports / operations
+-  Active support on retail business database / server / operation side in real-time
+-  Identifying vulnerabilities / issues with the existing apps and fix and/or improve
+-  Create and improve tool to improve the support capabilities for the retail business
 
-Some facts : 
-- 🌱 Focusing in automation as part of the adhoc tasks in my current job
-- 🔭 Working on side projects that have potency to create business.
--  📫 Email me at cdbpineda02@gmail.com for inquiries about your website/application.
--  ⚡ Software Engineer in Collabera Digital
+Short background :
+-  Graduated in Rizal Technological University
+-  Works at Ascendion Philippines
+-  Deployed in Safeway Inc.
+-  Based on Pasig City
 
-My Technologies are : 
-- :electron: ReactJs
-- :atom: HTML
-- 📲 Linux/UNIX
-- 🐚 Perl
-- 🖌️ CSS
-- 🎨 SCSS
-- ⚛️ ES6+ JavaScript
-- 🐍 Python
-- ☕ Java
-- 💻 PHP
-- 📄 MySQL
-- 🔥 Firebase
-- #️⃣ CSharp
-- 🎮 Unity
-- 🏗️ Bootstrap
-- ⚡ Vite
-- 🧠 Git
-
-<!--
-**kiritsugucarl/kiritsugucarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Proficiencies are : 
+- 💻 Web Development (HTML, CSS, PHP + frameworks, JavaScript + frameworks, C#)
+- 🤖 Scripting (Shell, Perl, Python, VB)
+- 🎨 Designing (CSS, SCSS, Bootstrap, Figma)
+- 🎮 Game Development (Unity, C#, Python)
+- 📱 Mobile Development (Java)
+- 🧑‍💻 Database (MySQL, PostgreSQL, MongoDB, Firebase)
+- 🎛️ Deployment utilities (Git, Docker)
